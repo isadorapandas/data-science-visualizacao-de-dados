@@ -1,7 +1,7 @@
 # data-science-visualizacao-de-dados
 
 Projeto realizado para que uma empresa fictícia pudesse otimizar serviços de aconselhamento e consultoria para pessoas que desejassem fazer imigração para o Canadá.
-A base de dados utilizada foi **imigrantes_canada.csv** com os seguintes campos: País; Continente; Região; os anos de 1980 a 2013; e o Total de imigrantes.
+A base de dados utilizada foi **imigrantes_canada.csv**, que possui os seguintes campos: País; Continente; Região; os anos de 1980 a 2013; e o Total de imigrantes.
 
 Nele, foram abordados os conceitos:
 
